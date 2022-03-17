@@ -1,3 +1,6 @@
+/lib
+*.py
+*.a
 .dep
 *.o
 *.bin
